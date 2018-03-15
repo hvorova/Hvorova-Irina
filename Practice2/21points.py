@@ -85,6 +85,8 @@ def new_game():
                 print ("You win")
             else:
                 print ("Dealer win")
+if __name__ == '__main__':
+    new_game()
 
     
 
